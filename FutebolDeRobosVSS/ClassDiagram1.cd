@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FutebolDeRobosVSS.implementacoes.Bola" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQgAAAEIAAAAAAAAAAAAAQAAAIA=</HashCode>
+      <FileName>implementacoes\Bola.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FutebolDeRobosVSS.implementacoes.Campo" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAAAAAgAAAAAAAAQAAAAEAAAAAQAAAAGAAAAggA=</HashCode>
+      <FileName>implementacoes\Campo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FutebolDeRobosVSS.implementacoes.Ambiente" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAABAABABAAwEQQANAAAAAAAAAAAIIAAgAEA=</HashCode>
+      <FileName>implementacoes\Ambiente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="FutebolDeRobosVSS.interfaces.dados.IBolaEstrategia">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>interfaces\dados\IBolaEstrategia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FutebolDeRobosVSS.interfaces.dados.IBolaProcessamento">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>interfaces\dados\IBolaProcessamento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FutebolDeRobosVSS.interfaces.dados.ICampoEstrategia">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAEAAAAggA=</HashCode>
+      <FileName>interfaces\dados\ICampoEstrategia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FutebolDeRobosVSS.interfaces.dados.ICampoProcessamento">
+    <Position X="7" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAEAAAAggA=</HashCode>
+      <FileName>interfaces\dados\ICampoProcessamento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FutebolDeRobosVSS.interfaces.ambiente.IAmbienteVisaoComputacional">
+    <Position X="2" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAABAAAAQAAAAAAAAAAAADAIAAAAAAA=</HashCode>
+      <FileName>interfaces\ambiente\IAmbienteVisaoComputacional.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
